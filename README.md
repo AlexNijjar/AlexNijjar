@@ -1,5 +1,7 @@
-Hi, hi. you can find the main projects I work on pinned below :) feel free to contact me, my email and Linkedin are on the left. Discord is `Alex Nijjar#5656`
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexnijjar&theme=tokyonight&include_all_commits=true&hide_rank=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered&custom_title=GitHub%20Stats)
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexNijjar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnijjar&theme=tokyonight&layout=compact&hide_progress=true&langs_count=20&custom_title=Top%20Languages)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNijjar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Alex's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexnijjar&theme=tokyonight)
+
+![Alex's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexnijjar&theme=tokyonight&layout=compact&custom_title=Coding%20Stats)
